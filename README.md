@@ -34,5 +34,5 @@ To have to live demo :
 
 1. Check Out Live project below:
 
-```bash
+
 https://todo-list-kappa-flame.vercel.app/
