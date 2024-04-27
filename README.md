@@ -30,9 +30,9 @@ The project structure follows a standard React.js application layout, with the f
 
 ## Getting Started
 
-To set up the project locally, follow these steps:
+To have to live demo :
 
-1. Clone the project repository from GitHub:
+1. Check Out Live project below:
 
 ```bash
-git clone https://github.com/abhinav-chaudhari/Todo_List.git
+https://todo-list-kappa-flame.vercel.app/
